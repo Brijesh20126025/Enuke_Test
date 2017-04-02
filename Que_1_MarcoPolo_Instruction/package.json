@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express":"latest",
-    "http":"latest"
+    "express": "^4.15.2",
+    "http": "latest"
   },
   "author": "Brijesh Prajapati",
   "license": "ISC"

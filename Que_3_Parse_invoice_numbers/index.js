@@ -150,7 +150,7 @@ function readInputFile(req, res , files){
                              i1=0;i2=0;i3=0;
                      }
                      lr.on('end' , function(){
-                         console.log(result);
+                         //console.log(result);
                          fs.writeFileSync("output.txt", result+ "\n");  
                      });
                      res.end("File Read Successfully Go to your Project Root Directory and find the output file output.txt");
