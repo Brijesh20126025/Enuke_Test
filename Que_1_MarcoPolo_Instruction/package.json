@@ -1,0 +1,15 @@
+{
+  "name": "enuke",
+  "version": "1.0.0",
+  "description": "enuke coding test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express":"latest",
+    "http":"latest"
+  },
+  "author": "Brijesh Prajapati",
+  "license": "ISC"
+}
